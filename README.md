@@ -24,4 +24,4 @@ This repository contains my solutions of the task / problems that have been requ
 
 ### List of the companies
 
-* [TMC IT Consulting, Luxembourg](https://tmc-employeneurship.com)
+* [TMC IT Consulting, Luxembourg & France](https://tmc-employeneurship.com)
