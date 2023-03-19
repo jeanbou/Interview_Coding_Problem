@@ -1,0 +1,4 @@
+org\bce\api\lib\TVMazeContent.class
+org\bce\api\lib\TVMazeFactory.class
+org\bce\api\lib\TVMaze.class
+org\bce\api\lib\TVMazeImpl.class
