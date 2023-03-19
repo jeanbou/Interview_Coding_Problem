@@ -25,6 +25,7 @@ This repository contains my solutions of the task / problems that have been requ
 * [BCE Group, Luxembourg](https://www.bce.lu)
 * [Docler Holding, Luxembourg](https://www.doclerholding.com)
 * [Flow Traders](https://www.flowtraders.com)
+* [FDLV Luxembourg SA](https://fdlv.com/)
 * [Lifeware AG](https://www.lifeware.ch)
 * [Odoo, Luxembourg](https://www.odoo.com)
 * [SES, Luxembourg](https://www.ses.com)
