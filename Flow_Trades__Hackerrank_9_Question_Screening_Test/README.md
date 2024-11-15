@@ -1,10 +1,13 @@
 # Flow Traders Java Software Engineer Test 2.0
 
 Screening interview from [Flow Traders](https://www.flowtraders.com/) for Java Software Engineer Test 2.0 position. 
-The online coding platform [Hacker Rank](https://www.hackerrank.com/). The test was proposed to pass on the 2nd of December 2018.
+The online coding platform [Hacker Rank](https://www.hackerrank.com/). The test was proposed to pass on the 12th of February 2018.
 9 Questions, duration 90 mins from the time you start.
 
-## Questions
+## Suggestions
+Before interview, the best is to check what was asked recently using [Glassdoors](https://www.glassdoor.com/index.htm)
+
+## My questions
 
 * Question No. 1 - Coding: Find the First Repeated Word in a Sentence - FindFirstRepeatedWordInSentence.java
 * Question No. 2 - Coding: 
@@ -15,3 +18,4 @@ The online coding platform [Hacker Rank](https://www.hackerrank.com/). The test 
 * Question No. 7 - Java: "Which of the following statements are true?" - Multiple Choice
 * Question No. 8 - Java: Deadlock in Java - Subjective
 * Question No. 9 - Java: "How does this method complete?" - Multiple Choice
+
