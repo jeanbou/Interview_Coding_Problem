@@ -1,8 +1,8 @@
 ## Three Interview Questions
 
-**Dynamic_cast, static_cast**
+*Dynamic_cast, static_cast*
 
-###Question 1 :###
+**Question 1 :**
 
 
 ```
@@ -27,12 +27,12 @@ int main() {
 }
 ```
 
-###What will happen ?### 
+**What will happen ?** 
 
 *ERROR COMPILATIONS due to this line display 200 because explicit complex numbers doesn't allow the implicit conversion*
 
 
-###Question 2 :###
+**Question 2 :**
 
 
 ```
@@ -59,15 +59,18 @@ int main()
 ```
 
 
-###What is printed ?###
+**What is printed ?**
 
 **A->Foo() B->Foo() B->Foo() B->Foo()**
+
 A->Foo() A->Foo() B->Foo() B->Foo()
+
 B->Foo() B->Foo() A->Foo() B->Foo()
+
 A->Foo() B->Foo() A->Foo() B->Foo()
 
 
-###Question 3 :###
+**Question 3 :**
 
 
 ```
@@ -79,8 +82,10 @@ int main() {
 ```
 
 
-###How many time the destructeur is called ?###
+**How many time the destructeur is called ?**
 
 Never
+
 **Twice**
+
 Third
