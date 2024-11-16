@@ -30,7 +30,8 @@ This repository contains my solutions of the task / problems that have been requ
 * [Odoo, Luxembourg](https://www.odoo.com)
 * [SES, Luxembourg](https://www.ses.com)
 * [TalkWalker, Luxembourg](https://www.talkwalker.com)
-* [TMC IT Consulting, Luxembourg and France](https://tmc-employeneurship.com)
+* [TMC IT Consulting, Luxembourg & France](https://tmc-employeneurship.com)
+* Wall Street Systems, Sophia-Antipolis (Valbonne), France (acquired by [ION Group](https://iongroup.com/))
 * [WeDely, Luxembourg](https://www.wedely.com)
 
 
