@@ -8,6 +8,6 @@ Before interview, the best is to check what was asked recently using [Glassdoors
 
 ##  Two interviews at Valbonne office, PACA, France
 
-**Second Line Technical Support Analyst date by 25.02.2014 **
+**Second Line Technical Support Analyst date by 25.02.2014**
 
 **Second Line Technical Support Analyst in 2015** 
