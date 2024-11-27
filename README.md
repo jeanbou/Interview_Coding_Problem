@@ -24,6 +24,7 @@ This repository contains my solutions of the task / problems that have been requ
 * [Barclays](https://home.barclays)
 * [BCE Group, Luxembourg](https://www.bce.lu)
 * [Docler Holding, Luxembourg](https://www.doclerholding.com)
+* [Facebook / Meta, Dublin, Ireland](https://www.metacareers.com/locations/dublin/?p[offices][0]=Dublin%2C%20Ireland&offices[0]=Dublin%2C%20Ireland)
 * [FDLV Luxembourg SA](https://fdlv.com/)
 * [Flow Traders](https://www.flowtraders.com)
 * [Lifeware AG](https://www.lifeware.ch)
