@@ -1,0 +1,80 @@
+What to expect during the initial interview:
+
+- 45 initial interview with 1-2 coding questions using a whiteboard (if on site) or laptop (if remote).
+- You will be tested on your problem solving and core CS fundamental skills (theory, algorithms, data structures, design patterns, recursions, binary tree questions, etc.)
+- You will need to think of an efficient, optimized and bug-free solution to code up quickly and concisely in whatever language you code best in.
+
+
+Links:
+
+I would highly recommend starting with our blog: 
+
+Link 1 https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
+
+Link 2 https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920
+
+Link 3 https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+
+Link 4 http://cocoanuts.mobi/2014/08/03/facebook/
+
+Link 5 https://www.quora.com/How-should-I-prepare-for-a-software-engineer-interview-at-Facebook
+
+The Approach: This class will focus on how to do well in software engineering interviews. 
+This is not a fluffy be-your-best class; 
+it is deeply technical and will discuss specific algorithm and data structure topics. 
+It will cover how to walk through an algorithm problem, how to brainstorm solutions, 
+how to discuss the problem with your interviewer, and how to write code (and test code) on a whiteboard.
+
+·         Cracking the Facebook Coding Interview - The Approach: https://vimeo.com/interviewprepsession/theapproach    
+·         Password: FB_IPS
+
+The Walk-Through: This video will focus on how to walk through a technical coding problem on a whiteboard.
+·         Cracking the Facebook Coding Interview- Problem Walk-Through: https://vimeo.com/interviewprepsession/problemwalkthrough  
+·         Password: FB_IPS 
+ 
+I would suggest signing up to FB live video interview prep session, this is hosted by one of our Engineers and is a great insight on what to expect: 
+Eroll Session http://www.eventbrite.com/o/facebook-london-master-your-fb-interview-8037667565 
+(If you don’t have time to sign up, Jackson Gabbard youtube page is a great resource – he is an ex-facebook engineer).
+
+Super Important: 
+
+Finally, I would also ensure you get use to the coding environment 
+we use in our interviews that can be found here: https://coderpad.io/ as well as practicing solving 
+as many problems you can on https://www.careercup.com/page and other coding problem sites. 
+You can review and practice Facebook problems, here:
+
+https://www.careercup.com/page?pid=facebook-interview-questions
+
+A few helpful hints
+Think out loud if you are working through a solution 
+you are presented with as the Engineer will want to know how you approach and troubleshoot problems. 
+If the interviewer gives you hints to improve your code, take them and run with them. 
+It is good to adjust and work through the problems with the interviewer to show your thought process and problem solving ability.
+
+Other things to consider include knowing the complexity of the algorithm you are writing, 
+its running time and whether your solution could be improved or optimized. 
+You should also check for edge cases and be thinking about how you might test your code to prove it works.
+
+Specifics to consider:
+
+- Please be sure to talk about your interest in Facebook, accomplishments, current projects, and walk the interviewer through your logic/reasoning during the coding exercise. Your interviewer will be evaluating your code on efficiency, bugs, and timeliness.
+- Discuss initial ideas and solutions with your interviewer, which will help you to clarify any ambiguity.
+- Take hints from your interviewer to showcase your thought process and problem-solving ability.
+- Generally avoid solutions with lots of edge cases or huge if/else if/else blocks. Deciding between iteration and recursion is always an important step.
+- Think about different algorithms and algorithmic techniques (sorting, divide-and-conquer, dynamic programming/memorization, recursion).
+- Think about data structures, particularly the ones used most often (Array, Stack/Queue, Hashset/Hashmap/Hashtable/Dictionary, Tree/Binary Tree, Heap, Graph, Bloom Filter, etc.)
+- Don’t worry about rote memorization such as runtimes or API/native calls. It's good to know how to figure out approximate runtimes on the fly but the code you write is more important.
+- You will be asked about O(Memory) constraints, the complexity of the algorithm you are writing and its runtime - O(N^2), O(N) etc.
+- Important -  think about testing your code throughout the interview
+
+Try to have 1-2 questions prepared for the end for your interviewer. Typical questions asked:
+
+- Imagine it is your first day here at Facebook. What do you want to work on? What features would you improve on?
+- Why are you interested in Facebook? Know about our technical environment, projects, challenges, etc. and your excitement about Facebook will go a long way).
+- What are the most interesting projects you have worked on and how they can be relevant to the Facebook environment.
+- What are some of the biggest professional challenges you have faced, and how you have overcome them.
+
+
+Please let me know if you have any questions.
+
+Thanks and good luck!

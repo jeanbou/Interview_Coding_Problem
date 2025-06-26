@@ -1,0 +1,1 @@
+Write a function that takes a list of words as input, and returns a list of those words bucketized by anagrams with duplicates removed. Example: Input: ["star", "rats", "car", "arc", "arts", "rats", "bar"] ?Output: [["star", "rats", "arts"], ["car", "arc"], ["bar"]] ?

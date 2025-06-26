@@ -1,0 +1,14 @@
+What to do in case of a memory leak
+
+Write algorithm to convert number for example 16 138 832 into "sixteen million one hundred thirty eight thousand eight hundred thirty two"
+
+What's the biggest project you've ever done?
+
+Find number in sorted array with rotation. Ex. array is [5, 7, 8, 1, 3]
+
+Leetcode 283. Move Zeroes
+
+What are the assumptions of OLS-Regression?
+
+Hacker Up
+http://www.geeksforgeeks.org/prepare-facebook-hacker-cup/

@@ -1,0 +1,37 @@
+Interview Questions were average on difficulty level if
+ you put some thought to it. Screening rounds were more of question answers 
+based where they gave you a problem and expected an answer. 
+----------------------
+
+Python: 
+1) Find the max no from the given set of elements in an array 
+(without using max function) 
+2) Find the minimum absolute difference between the set of elements of an array. 
+
+
+Python Coding Questions that involved a hashmap. 
+
+3) Know your basics well Print Max element of a given list 
+4) Print median of a given list 
+5) Print the first nonrecurring element in a list 
+6) Print the most recurring element in a list 
+
+7) HCF/Greatest common Factor of List LCM of list Sql: 
+8) find the highest salary per department 
+	Select employee from departments where max salary of the department is 40k 
+		Select employee assigned to projects Select employee which have the max salary in a given department 
+			Select employee with second highest salary Table has two data entries every day for # of apples and oranges sold. 
+
+9) Write a query to get the difference between the apples and oranges sold on a given day 
+	Typical questions around Group by, Joins during screening round they used 
+		MYSQL so practice solutions with basic SQL as the version i was working 
+		on didn't support analytical functions or other advanced features. 
+
+Face To Face Rounds (Fullstack): To begin I was asked about different metrics which could be reported given the dataset/information or scenario. 
+Then interviewer picked up a metrics and asked to draw on whiteboard what kind of graph/chart will I use to display the information. 
+Then going further asked about the table structures and data model which will be required to support the dashboard. 
+Interviewer then provided the initial data set which is 1 case was a log file and in another some detail level tables, 
+I was asked to write a programming code to read, parse and load data to tables. 
+Then along the way once we have our code tables and dashboard finalized i was asked to write SQL's for different steps in the whole pipel
+
+----------------------

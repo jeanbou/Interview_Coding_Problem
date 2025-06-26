@@ -11,3 +11,4 @@ As I did some preparation in my search for questions, the best is to to check wh
 **Dublin, Ireland**
 
 **London, UK** 
+Here is no solutions (no coding), but only questions prepared to face during the interview
