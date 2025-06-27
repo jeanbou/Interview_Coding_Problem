@@ -35,7 +35,7 @@ Feel free to contribute improvements or share insights by opening issues or pull
 
 ---
 
-? If this repository helps you in your preparation, please give it a star!
+* If this repository helps you in your preparation, please give it a star!
 
 ---
 

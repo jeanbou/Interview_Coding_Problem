@@ -37,7 +37,7 @@ Feel free to contribute new problems or improvements via pull requests or open i
 
 ---
 
-? If this helps you prepare for your interview, please star the repository!
+* If this helps you prepare for your interview, please star the repository!
 
 ---
 
