@@ -1,50 +1,57 @@
-# Singapore Airlines - Screening Coding Tests (Python & SQL)
+# Singapore Airlines - Technical Screening Interview Questions
 
-This folder contains a selection of **screening coding tests** for Singapore Airlines, focusing on Python and SQL challenges.
+## Overview
 
-These tasks were used during the initial technical screening phase and represent some (but not all) of the questions asked.
+This folder contains technical screening questions from a **real interview process at Singapore Airlines**. The problems were delivered via screenshots (image-based format), requiring handwritten or typed solutions under time constraints. A draft solution in Python is included for one of the problems.
 
----
-
-## Contents
-
-- Python coding problems related to data manipulation, algorithms, and logic 
-- SQL queries covering data extraction and aggregation 
-- Solutions provided both as `.txt` files and as JPEG images for reference 
-- Problems and solutions reflect realistic screening challenges from Singapore Airlines 
+This resource is ideal for candidates targeting technical roles at large corporations or airlines and looking to practice problem-solving based on real-world scenarios.
 
 ---
 
-## Test Environment
+## Purpose
 
-The coding tests were completed and run on [TestDome](https://www.testdome.com), a popular platform for technical assessments.
-
----
-
-## How to Use
-
-1. Review each problem statement carefully. 
-2. Attempt to solve the problems independently before checking the provided solutions. 
-3. Use the JPEG images to understand the question context and your solution approach visually. 
-4. Compare your solutions with the `.txt` files for detailed code examples. 
+- Share actual coding interview content from Singapore Airlines' hiring process
+- Offer a peek into the format and expectations of the screening phase
+- Provide a Python-based and SQL approach to problem-solving
+- Help job seekers prepare with authentic and uncommon materials
 
 ---
 
-## Notes
+## What's Included
 
-- This repository contains only a subset of the Singapore Airlines screening questions. 
-- Solutions are provided to help candidates prepare effectively for similar technical tests. 
-
----
-
-## Contribution
-
-Contributions, improvements, or additional Singapore Airlines screening problems are welcome via pull requests or issues.
+- **Screenshots** of interview questions (`Question1.jpg`, `Question2.jpg`, etc.)
+- **Draft Python solution** for one problem: `Question5_Solution_Python.txt`
+- Tasks oriented toward analytical thinking, logic, and basic algorithm skills
 
 ---
 
-* If this repository helps you prepare, please consider starring it to support continued updates!
+## Interview Context
+
+- Company: **Singapore Airlines**
+- Role Type: **Technical/Software Development Position**
+- Format: **Visual screenshot-based questions + free-form answer entry**
+- Nature: Emphasis on understanding problem statements quickly and writing clear, structured logic
 
 ---
 
-*Good luck with your Singapore Airlines interview preparation!*
+## Preparation Tip
+
+Even if tasks are image-based, they typically relate to foundational topics in programming and data structures. To prepare effectively, study:
+
+- Loop logic and conditionals
+- Data types' manipulation in Python
+- Time complexity intuition
+- Problem decomposition techniques
+- SQLing
+
+---
+
+## Tags (for search optimization)
+
+`singapore-airlines`, `technical-screening`, `interview-prep`, `python-coding-task`, `real-interview-question`, `image-based-task`, `developer-assessment`, `coding-challenge`, `data-structures`, `algorithm-practice`, `airline-tech-job`
+
+---
+
+## Support
+
+If you find this content useful or unique in your interview prep journey, please consider starring the repository. Sharing real-world material helps build a stronger, open-source job prep community.
