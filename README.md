@@ -35,6 +35,7 @@ Below are companies whose interview questions are featured:
 
 - Adyen — https://www.adyen.com  
 - Anaplan — https://www.anaplan.com  
+- Ar?s Group - https://www.arhs-group.com/about-us
 - Aubay — https://www.aubay.com  
 - Barclays — https://home.barclays  
 - BCE Group — https://www.bce.lu  
@@ -48,6 +49,7 @@ Below are companies whose interview questions are featured:
 - Odoo SA — https://www.odoo.com  
 - Rakuten — https://www.rakuten.com/  
 - SES — https://www.ses.com  
+- Singapore Airlines — https://www.singaporeair.com/
 - Talkwalker — https://www.talkwalker.com  
 - TMC IT Consulting — https://tmc-employeneurship.com  
 - Wall Street Systems (now ION Group) — https://iongroup.com/  

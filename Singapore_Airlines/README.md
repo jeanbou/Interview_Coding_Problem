@@ -43,7 +43,7 @@ Contributions, improvements, or additional Singapore Airlines screening problems
 
 ---
 
-? If this repository helps you prepare, please consider starring it to support continued updates!
+* If this repository helps you prepare, please consider starring it to support continued updates!
 
 ---
 
