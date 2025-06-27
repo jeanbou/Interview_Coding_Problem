@@ -1,0 +1,48 @@
+https://www.testdome.com/t/sr8qekppjk
+
+
+
+class CategoryTree():
+
+    def __init__(self):
+        self.tree = []
+
+    class Node(object):        
+        def __init__(self, base, parent=(None), children=[]):        
+            self.base= base
+            self.parent = parent
+            self.children = children    
+            
+    def add_category(self, category, parent):
+        if parent is None:
+            category = self.Node(category)
+            self.tree.append(category)
+        else:
+            flag = False
+            for _ in self.tree:
+                if _.base ==parent:
+                    category = self.Node(category)
+                    _.children.append(category)
+                    category.parent = _.base
+                    flag = True
+            if not flag:
+                print('Parent Node is not exist!')
+
+    def get_children(self, parent):
+        it = iter(self.tree)
+        while(True):
+            try:
+                _ = next(it)
+                if _.base==parent:
+                    return [__.base for __ in _.children]
+            except StopIteration:
+                print('Base Node !exist')
+                break
+
+c = CategoryTree()
+c.add_category('A', None)
+c.add_category('B', 'A')
+c.add_category('C', 'A')
+print(','.join(c.get_children('A') or []))
+
+http://blog.csdn.net/cn_wk/article/details/51305868
