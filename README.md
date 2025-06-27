@@ -33,14 +33,14 @@ Each subfolder contains:
 
 Below are companies whose interview questions are featured:
 
-- Adyen — https://www.adyen.com  
-- Anaplan — https://www.anaplan.com  
-- Ar?s Group - https://www.arhs-group.com/about-us
-- Aubay — https://www.aubay.com  
-- Barclays — https://home.barclays  
-- BCE Group — https://www.bce.lu  
-- Docler Holding — https://www.doclerholding.com  
-- Meta (Facebook) — https://www.metacareers.com/  
+- Adyen — https://www.adyen.com
+- Anaplan — https://www.anaplan.com
+- Arhs Group - https://www.arhs-group.com
+- Aubay — https://www.aubay.com 
+- Barclays — https://home.barclays 
+- BCE Group — https://www.bce.lu 
+- Docler Holding — https://www.doclerholding.com 
+- Meta (Facebook) — https://www.metacareers.com/ 
 - FDLV Luxembourg SA — https://fdlv.com/  
 - Flow Traders — https://www.flowtraders.com  
 - Goldman Sachs — https://www.goldmansachs.com/  
