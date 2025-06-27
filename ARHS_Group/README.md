@@ -2,10 +2,12 @@
 
 This folder contains technical coding questions completed during the interview process with **Arhs Group Luxembourg** in **May 2019**.
 
-Arhs is a European IT consulting company specializing in software development, system integration, and cloud-native technologies.  
+Arhs is a European IT consulting company specializing in software development, system integration, and cloud-native technologies.
 Official website: https://www.arhs-group.com/
 
 The screening included practical coding and theory questions across four main areas: Java, JavaScript/HTML/CSS, SQL, and Spring Framework.
+
+A coding assessment was performed using the Codility platform - https://www.codility.com/
 
 ---
 

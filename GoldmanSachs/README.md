@@ -1,44 +1,60 @@
-# Goldman Sachs (Japan) — Coding Interview Preparation
+# Goldman Sachs Japan - Technical Screening (Java Coding Test)
 
-This folder contains coding problems and solutions specifically prepared for technical screening interviews at **Goldman Sachs Japan (Tokyo)**.
+## Overview
 
-The tasks cover a variety of algorithmic challenges commonly asked in Goldman Sachs interviews in Japan, helping candidates sharpen problem-solving skills and practice coding under interview conditions.
+This folder documents a **technical screening test for Goldman Sachs (Japan Office)**, focused on core **Java programming skills**. The challenge was part of an early-stage evaluation for a software engineering role and emphasizes algorithmic thinking and coding precision under time constraints.
 
----
-
-## Contents
-
-- Array and String manipulation 
-- Searching and Sorting algorithms 
-- Dynamic Programming challenges 
-- Graph and Tree problems 
-- Math and Logic puzzles 
+The submitted code was written using **Java**, Goldman Sachs' preferred language for backend and quantitative infrastructure development.
 
 ---
 
-## How to Use
+## Folder Structure
 
-1. Browse through the tasks in this folder.
-2. Try to solve each problem on your own first.
-3. Review the provided solutions for reference and optimization ideas. 
-4. Practice regularly to build confidence and coding speed. 
-
----
-
-## About
-
-This repository is part of a larger collection of technical interview questions for top tech and finance companies, curated and maintained by [jeanbou](https://github.com/jeanbou).
+### `Japan JAVA/`
+* Contains the actual Java solutions submitted during the test. The folder includes:
+- Standalone `.java` files
+- Algorithm-focused logic
+- Compact and efficient code structure, ready for compilation and execution
 
 ---
 
-## Contribution
+## Technical Focus
 
-Feel free to contribute new problems or improvements via pull requests or open issues.
+- Language: **Java**
+- Topics covered (likely based on known formats):
+  - Arrays, Strings, Loops
+  - Sorting and counting techniques
+  - Edge case management
+  - Time-efficient algorithmic logic
 
 ---
 
-* If this helps you prepare for your interview, please star the repository!
+## Context
+
+- Company: **Goldman Sachs**
+- Location: **Japan**
+- Role: **Software Engineer / Developer (Java)**
+- Stage: **Online technical screening**
+- Environment: Custom platform or shared document-based code challenge
+
+This test evaluated how quickly and accurately the candidate could apply Java fundamentals to algorithmic problems often seen in investment banking technology pipelines.
 
 ---
 
-*Good luck with your Goldman Sachs Japan interview!*
+## Why This is Valuable
+
+- * Real-world Goldman Sachs interview material (Japan region)
+- * Practical Java solutions with performance-conscious logic
+- * Great resource for anyone preparing for **financial tech roles** or **Java coding interviews**
+
+---
+
+## Tags (for search optimization)
+
+`goldman-sachs`, `japan`, `java-coding-test`, `technical-screening`, `software-engineer`, `interview-preparation`, `financial-tech`, `algorithm-practice`, `coding-assessment`, `real-interview`
+
+---
+
+## Support
+
+If this example helped you gain clarity on what to expect in a Java coding test or interview, please consider starring the repository. Sharing and supporting real-world preparation material helps demystify the process for candidates across industries.

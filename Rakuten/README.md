@@ -1,49 +1,74 @@
-# Rakuten - Coding Interview Preparation (Codility - July 2017)
+# Rakuten - Codility Technical Interview Prep (July 2017)
 
 ## Overview
 
-This folder contains coding problem drafts and algorithmic ideas prepared specifically for a technical interview with **Rakuten Japan**, conducted in **July 2017**.
+This folder contains preparation material for a **technical screening interview with Rakuten Japan**, conducted in **July 2017** via the **Codility online platform**. The content includes raw algorithm drafts, code snippets, and logical strategies specifically designed to mirror the format and time pressure of real Codility-based assessments.
 
-The coding session took place on the **Codility platform**, and this content was assembled to help simulate and solve similar real-world challenges under timed conditions.
+Whether you're preparing for Rakuten or any company using Codility-style tests, this folder offers insight into timed coding prep from an actual candidate experience.
 
 ---
 
 ## What You'll Find Here
 
-- Draft solutions for Codility-style problems
-- Focused on **algorithmic reasoning** and **problem-solving**
-- Quick recollections of patterns and approaches found across:
-  - Developer forums
-  - Interview preparation websites
-  - Problem-solving communities
+- Draft solutions to common Codility problem types
+- Algorithmic patterns captured in raw form (before refinement)
+- Reusable logic blocks and ideas from various prep sources
 
-These drafts are intended as **idea blueprints** rather than polished, production-ready code. The main objective was to **understand the logic quickly** and **adapt the algorithm** to the Codility test format.
-
----
-
-## Why This Matters
-
-- Real-world example of **time-sensitive interview prep**
-- Practical code fragments and logic building blocks
-- Insight into Rakuten’s technical assessment process in 2017
-- Useful for candidates targeting **Rakuten** or any **Codility-based interviews**
+The code and comments are **not production-grade**, but are instead optimized for:
+- Speedy understanding of the core problem
+- Quick testing of logic
+- Rapid iteration and adaptation under time constraints
 
 ---
 
-## Notes
+## Technical Context
 
-- These are **raw drafts**, not final implementations.
-- Some code may lack full edge case coverage or comments.
-- Contributions, improvements, and refactors are welcome.
+- Platform: **Codility**
+- Company: **Rakuten Japan**
+- Date: **July 2017**
+- Focus Areas:
+  - Arrays and sequences
+  - Counting and prefix sums
+  - Sorting, time complexity
+  - Greedy and edge case intuition
+
+This reflects Rakuten's approach to filtering candidates through fast-paced, logic-heavy online assessments.
 
 ---
 
-## Keywords (for search optimization)
+## Practical Use Cases
 
-`rakuten`, `codility`, `coding-interview`, `rakuten-japan`, `technical-interview`, `interview-preparation`, `algorithm-drafts`, `problem-solving`, `july-2017`, `tech-screening`, `interview-questions`
+- Preparing for **Codility-based interviews**
+- Practicing under **timed coding test** conditions
+- Reviewing **problem-solving patterns** quickly
+- Understanding how interview prep looked in 2017 (and what's still relevant)
+
+---
+
+## Notes and Disclaimers
+
+- This folder contains **idea sketches**, not final implementations.
+- Some logic may lack full validation or explanatory comments.
+- Perfect for inspiration or study, but not ready for direct reuse in live systems.
+
+---
+
+## Recommended Enhancements
+
+- Add unit tests for core logic blocks
+- Refactor key algorithms for readability and performance
+- Annotate logic with time/space complexity notes
+
+Contributions welcome if you’d like to polish or modernize these drafts!
+
+---
+
+## Tags (for search optimization)
+
+`rakuten`, `rakuten-japan`, `codility`, `technical-interview`, `coding-test`, `algorithm-practice`, `interview-preparation`, `july-2017`, `tech-screening`, `developer-assessment`, `problem-solving-drafts`
 
 ---
 
 ## Support This Project
 
-If you find this helpful for your own interview preparation, consider giving this repository a star. It helps others discover useful content like this and supports ongoing curation of real-world coding challenges.
+If this content helps you prepare or gain insight into Codility-style interviews, please consider **starring** the repository. Your support helps others discover realistic, time-tested interview materials.
