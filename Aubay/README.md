@@ -1,4 +1,4 @@
-# Aubay - Codingame Interview Task (Join Point Problem in Java)
+# Aubay Luxembourg - Codingame Interview Task (Join Point Problem in Java, January 2022)
 
 ## Overview
 
