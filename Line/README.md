@@ -10,10 +10,10 @@ The test consisted of three **classic algorithmic coding problems**, provided in
 
 ## Folder Structure
 
-- * `Line_PreTest_Tasks.rtf`  
+- * `LINE_Corp__Japan_Fukuoka_PreTest_DevEng_Ver170729P.rtf ` 
   Contains the **original instructions and descriptions** of all three coding challenges given during the online screening.
 
-- * `Line_Task_Screenshot.jpg`  
+- * `Task?_*.jpg`  
   A snapshot showing **real-time problem-solving** as performed during the assessment. Offers insight into the candidate’s approach, tool usage, and workflow under test conditions.
 
 ---
